@@ -28,13 +28,7 @@ export default function Hero() {
             "radial-gradient(circle at 50% 50%, #E8C4B8 0%, transparent 70%)",
         }}
       />
-      <div
-        className="absolute bottom-[-8%] left-[-5%] w-[360px] h-[360px] rounded-full opacity-20 pointer-events-none"
-        style={{
-          background:
-            "radial-gradient(circle at 50% 50%, #3D5045 0%, transparent 70%)",
-        }}
-      />
+      
 
       {/* Floating petal accents */}
       <div className="absolute top-[18%] left-[12%] text-rose-blush opacity-30 text-4xl select-none animate-float">
