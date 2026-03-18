@@ -80,7 +80,7 @@ export default function Hero() {
           <span className="text-charcoal font-medium">complex systems</span>{" "}
           and{" "}
           <span className="text-charcoal font-medium">human-centered solutions</span>
-          {" "}— from Detroit to the cloud.
+          {" "}— from Detroit.
         </p>
 
         {/* CTA buttons */}
