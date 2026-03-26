@@ -56,7 +56,7 @@ export default function Hero() {
             className="text-xs tracking-[0.22em] uppercase font-mono text-charcoal-light px-3 py-1 rounded-full border border-rose-blush/50 bg-cream-warm/60"
             style={{ fontFamily: "var(--font-mono)" }}
           >
-            Software Engineer & Product Consultant
+            Software Engineer
           </span>
           <span className="petal-divider" />
         </div>
