@@ -79,8 +79,8 @@ export default function Hero() {
           I bridge{" "}
           <span className="text-charcoal font-medium">complex systems</span>{" "}
           and{" "}
-          <span className="text-charcoal font-medium">human-centered solutions</span>
-          {" "}— from Detroit.
+          <span className="text-charcoal font-medium">technical solutions</span>
+          
         </p>
 
         {/* CTA buttons */}

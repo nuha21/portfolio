@@ -12,7 +12,7 @@ export default function Footer() {
           className="text-xs text-charcoal-light text-center"
           style={{ fontFamily: "var(--font-mono)" }}
         >
-          Built with Next.js, TypeScript & Tailwind CSS · Detroit, MI
+          Built with Next.js, TypeScript & Tailwind CSS
         </p>
         <p
           className="text-xs text-charcoal/30"

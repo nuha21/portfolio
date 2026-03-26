@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Nuha Ahmed — Product & Engineering",
+  title: "Nuha Ahmed",
   description:
-    "Product-minded Software Engineering Consultant. AWS Certified. Based in Detroit.",
+    "Software Engineering Consultant. AWS Certified.",
   openGraph: {
     title: "Nuha Ahmed",
-    description: "Product-minded Software Engineering Consultant",
+    description: "Software Engineering Consultant",
   },
 };
 
