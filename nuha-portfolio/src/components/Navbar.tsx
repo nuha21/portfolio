@@ -35,7 +35,20 @@ export default function Navbar() {
           NA<span className="text-rose-deep">.</span>
         </a>
 
-        
+        {/* Links */}
+        <div className="flex items-center gap-6">
+          {navLinks.map((link) => (
+            <a
+              key={link.href}
+              href={link.href}
+              className="text-sm text-charcoal-light hover:text-charcoal transition-colors duration-150"
+              style={{ fontFamily: "var(--font-body)" }}
+            >
+              {link.label}
+            </a>
+          ))}
+          
+        </div>
       </div>
     </nav>
   );
