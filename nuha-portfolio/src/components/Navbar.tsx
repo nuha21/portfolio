@@ -35,26 +35,7 @@ export default function Navbar() {
           NA<span className="text-rose-deep">.</span>
         </a>
 
-        {/* Links */}
-        <div className="flex items-center gap-6">
-          {navLinks.map((link) => (
-            <a
-              key={link.href}
-              href={link.href}
-              className="text-sm text-charcoal-light hover:text-charcoal transition-colors duration-150"
-              style={{ fontFamily: "var(--font-body)" }}
-            >
-              {link.label}
-            </a>
-          ))}
-          <a
-            href="mailto:nuha2003usa@gmail.com"
-            className="text-xs bg-charcoal text-cream px-4 py-2 rounded-full hover:bg-charcoal-mid transition-colors duration-150"
-            style={{ fontFamily: "var(--font-mono)" }}
-          >
-            Hire me
-          </a>
-        </div>
+        
       </div>
     </nav>
   );
