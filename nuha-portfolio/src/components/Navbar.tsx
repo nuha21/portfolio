@@ -32,7 +32,7 @@ export default function Navbar() {
           className="text-charcoal font-light tracking-wide text-lg"
           style={{ fontFamily: "var(--font-display)" }}
         >
-          NA<span className="text-rose-deep">.</span>
+          NA<span className="text-rose-deep">. </span>
         </a>
 
         {/* Links */}
